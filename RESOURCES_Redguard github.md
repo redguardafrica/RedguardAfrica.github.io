@@ -317,6 +317,6 @@ Open an **Issue** with the title format: `[BROKEN LINK] Resource Name — Domain
 
 ---
 
-*Last updated: May 2026 | Maintained by the Redguard Africa Community*
+
 
 </div>
