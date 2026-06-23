@@ -189,7 +189,7 @@ Offensive security is the art of **authorized adversarial simulation.** This dom
 
 ### 🌐 Web Application Security
 
-- **[PortSwigger Web Security Academy — Official YouTube](https://www.youtube.com/@PortSwigger)** — *Skill Level:* Beginner–Advanced | Official companion channel to the free PortSwigger Web Security Academy; covers OWASP Top 10 vulnerabilities (SQLi, XSS, SSRF, XXE, IDOR) with lab-based learning — the industry standard for web app security education.
+- **[PortSwigger Web Security Academy — Official YouTube](https://portswigger.net/web-security)** — *Skill Level:* Beginner–Advanced | Official companion channel to the free PortSwigger Web Security Academy; covers OWASP Top 10 vulnerabilities (SQLi, XSS, SSRF, XXE, IDOR) with lab-based learning — the industry standard for web app security education.
 
 - **[STÖK](https://www.youtube.com/@STOKfredrik)** — *Skill Level:* Intermediate | Bug bounty hunting culture, recon methodology, and web hacking techniques from a professional hacker; combines technical depth with inspiration for building a career in offensive security.
 
