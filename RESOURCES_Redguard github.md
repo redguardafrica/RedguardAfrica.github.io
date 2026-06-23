@@ -234,9 +234,9 @@ DFIR sits at the intersection of detective work and deep technical expertise. Th
 
 ### 🕵️ Threat Hunting & Incident Response
 
-- **[13Cubed — Windows Forensics & Threat Hunting](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2cvJ5KW2)** — *Skill Level:* Intermediate–Advanced | Richard Davis' comprehensive series on hunting adversaries using Windows event logs, Sysmon, registry artifacts, prefetch, and AmCache analysis — the essential curriculum for any threat hunter or IR responder operating in Windows environments.
+- **[13Cubed — Windows Forensics & Threat Hunting](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve)** — *Skill Level:* Intermediate–Advanced | Richard Davis' comprehensive series on hunting adversaries using Windows event logs, Sysmon, registry artifacts, prefetch, and AmCache analysis — the essential curriculum for any threat hunter or IR responder operating in Windows environments.
 
-- **[Blue Team Labs Online — Official YouTube](https://www.youtube.com/@BlueTeamLabsOnline)** — *Skill Level:* Intermediate | Walkthrough-style video content accompanying Blue Team Labs Online's free investigative challenges; teaches structured incident investigation methodology using real log data, PCAP files, and memory images.
+- **[Blue Team Labs Online — Official YouTube](https://www.youtube.com/playlist?list=PLqyUgadpThTIK7yJqXuyzA9GGw3YrtOL0)** — *Skill Level:* Intermediate | Walkthrough-style video content accompanying Blue Team Labs Online's free investigative challenges; teaches structured incident investigation methodology using real log data, PCAP files, and memory images.
 
 - **[The DFIR Report](https://thedfirreport.com)** — *Skill Level:* Advanced | Not a YouTube channel — this is the **community's most trusted published resource** for real-world incident response case studies; every report documents a complete attack chain from initial access to ransomware deployment with full IOC lists and detection opportunities.
 
