@@ -312,7 +312,7 @@ Open an **Issue** with the title format: `[BROKEN LINK] Resource Name — Domain
 ---
 
 [![Join Our Community](https://img.shields.io/badge/Join-Redguard%20Africa-red?style=for-the-badge)](https://github.com/redguardafrica)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%40RedguardAfrica-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%40RedguardAfrica-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/redguardafrica)
 [![Star This Repo](https://img.shields.io/badge/⭐%20Star-This%20Repository-yellow?style=for-the-badge)](https://github.com/redguardafrica/resources)
 
 ---
