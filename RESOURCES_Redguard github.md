@@ -173,8 +173,6 @@ Offensive security is the art of **authorized adversarial simulation.** This dom
 
 - **[TCM Security — Movement, Pivoting & Persistence](https://www.youtube.com/watch?v=_8xJaaQlpBo)** — *Skill Level:* Advanced | In-depth coverage of post-exploitation tradecraft: lateral movement techniques, credential dumping, pivoting through network segments, and establishing persistent access — essential for OSCP and red team certifications.
 
-- **[S1REN](https://www.youtube.com/@S1REN)** — *Skill Level:* Intermediate–Advanced | Real-world penetration testing content with a focus on Active Directory, red team techniques, and bug bounty methodology; brings a practitioner's authenticity that academic courses often lack.
-
 ---
 
 ### 🚩 CTF Walkthroughs & Skill Building
