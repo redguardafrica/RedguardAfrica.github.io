@@ -226,9 +226,9 @@ DFIR sits at the intersection of detective work and deep technical expertise. Th
 
 - **[OALabs](https://www.youtube.com/@OALabs)** — *Skill Level:* Intermediate–Advanced | Professional-grade malware analysis and reverse engineering content covering unpacking, deobfuscation, C2 infrastructure analysis, and IDA Pro/Ghidra techniques; trusted by industry malware analysts worldwide.
 
-- **[MalwareTech](https://www.youtube.com/@MalwareTech)** — *Skill Level:* Advanced | Deep technical content from a seasoned malware researcher covering reverse engineering, vulnerability analysis, and threat intelligence; content for analysts ready to go beyond tools into the underlying assembly and OS internals.
+- **[MalwareTech](https://www.youtube.com/@MalwareTechBlog)** — *Skill Level:* Advanced | Deep technical content from a seasoned malware researcher covering reverse engineering, vulnerability analysis, and threat intelligence; content for analysts ready to go beyond tools into the underlying assembly and OS internals.
 
-- **[HackerSploit — Reverse Engineering & Malware Analysis](https://www.youtube.com/playlist?list=PLBf0hzazHTGPLeGgCtzVKlYmHnQFhkwuM)** — *Skill Level:* Intermediate | Structured introduction to static analysis with pestudio and Ghidra, and dynamic analysis with x64dbg and Cuckoo Sandbox; builds the complete malware analyst toolkit methodically.
+- **[HackerSploit — Reverse Engineering & Malware Analysis](https://www.youtube.com/watch?v=uHhKkLwT4Mk&list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io)** — *Skill Level:* Intermediate | Structured introduction to static analysis with pestudio and Ghidra, and dynamic analysis with x64dbg and Cuckoo Sandbox; builds the complete malware analyst toolkit methodically.
 
 ---
 
