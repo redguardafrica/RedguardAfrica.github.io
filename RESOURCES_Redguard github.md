@@ -216,7 +216,7 @@ DFIR sits at the intersection of detective work and deep technical expertise. Th
 
 - **[MyDFIR — Disk Forensics & Incident Response Series](https://www.youtube.com/@MyDFIR)** — *Skill Level:* Beginner–Intermediate | Practical walkthroughs of disk imaging with FTK Imager, artifact carving, and building complete IR timelines; builds the foundational workflow every junior DFIR analyst needs to internalize.
 
-- **[HackerSploit — Digital Forensics with Autopsy](https://www.youtube.com/watch?v=3PfFGFCgSGE)** — *Skill Level:* Beginner–Intermediate | Step-by-step forensic investigation using Autopsy and the Sleuth Kit; covers disk image mounting, file recovery, browser artifact analysis, and evidence reporting — the complete beginner's introduction to disk forensics.
+- **[HackerSploit — Digital Forensics with Autopsy](https://www.youtube.com/watch?v=o6boK9dG-Lc)** — *Skill Level:* Beginner–Intermediate | Step-by-step forensic investigation using Autopsy and the Sleuth Kit; covers disk image mounting, file recovery, browser artifact analysis, and evidence reporting — the complete beginner's introduction to disk forensics.
 
 ---
 
