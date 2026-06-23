@@ -1,4 +1,3 @@
-<div align="center">
 
 # 🛡️ Redguard Africa — Cybersecurity Resource Hub
 
@@ -33,7 +32,7 @@ Cybersecurity is not a single destination. It is a **constellation of discipline
 | 🔵 **Student with Some Experience** | Use this as a pick-and-choose menu. Jump between domains as your curiosity leads. |
 | 🔴 **Preparing for Certifications** | Use the cert-specific resources tagged within each domain to guide your prep. |
 
-> 💡 **Pro Tip:** Don't consume passively. For every tutorial you watch, spend **twice** the time in a lab (TryHackMe, HackTheBox, or your own homelab). Watching is learning. Doing is mastery.
+> 💡 **Pro Tip:** Don't consume passively. For every tutorial you watch, spend **twice** the time in a lab (TryHackMe, HackTheBox, or your own homelab). Watching is learning. Doing is mastery. [Bonus roadmap](https://roadmap.sh/cyber-security)
 
 ---
 
@@ -58,7 +57,7 @@ redguard-africa/resources
 
 > 🎯 **Goal:** Build an unshakeable foundation. Every elite penetration tester, SOC analyst, and forensic investigator started here. Don't skip this.
 
-This domain covers the bedrock knowledge every cybersecurity professional must own: **how networks communicate, how operating systems work under the hood, and what the core security principles actually mean in practice.** Without this, everything downstream is fragile.
+This domain covers the bedrock knowledge every cybersecurity professional must kown: **how networks communicate, how operating systems work under the hood, and what the core security principles actually mean in practice.** Without this, everything downstream is fragile.
 
 **Key topics covered:** TCP/IP, DNS, HTTP/S, OSI Model, Linux CLI, Windows Internals, Active Directory basics, CompTIA Security+ & Network+ concepts.
 
@@ -66,9 +65,9 @@ This domain covers the bedrock knowledge every cybersecurity professional must o
 
 ### 🌐 Networking Foundations
 
-- **[NetworkChuck](https://www.youtube.com/@NetworkChuck)** — *Skill Level:* Beginner | The most energetic networking teacher on YouTube; his free CCNA course and networking fundamentals series make subnetting, VLANs, and routing instantly click for complete beginners.
+- **[NetworkChuck](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)** — *Skill Level:* Beginner | The most energetic networking teacher on YouTube; his free CCNA course and networking fundamentals series make subnetting, VLANs, and routing instantly click for complete beginners.
 
-- **[Professor Messer — CompTIA Network+ Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrqqkOex9iiSN4Hmv3)** — *Skill Level:* Beginner | The gold standard free CompTIA Network+ prep course; methodical, thorough, and fully aligned to the exam objectives — use this to pass N+ or simply to master networking theory.
+- **[Professor Messer — CompTIA Network+ Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8)** — *Skill Level:* Beginner | The gold standard free CompTIA Network+ prep course; methodical, thorough, and fully aligned to the exam objectives — use this to pass N+ or simply to master networking theory.
 
 - **[PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)** — *Skill Level:* Beginner | Beautifully animated explanations of networking concepts (DNS, DHCP, VPNs, firewalls) that make abstract protocols visually intuitive and permanently memorable.
 
@@ -79,9 +78,7 @@ This domain covers the bedrock knowledge every cybersecurity professional must o
 ### 🔐 Security Fundamentals & Certifications
 
 - **[Professor Messer — CompTIA Security+ Course (SY0-701)](https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)** — *Skill Level:* Beginner | The definitive free Security+ video course; covers every exam domain from threats and vulnerabilities to cryptography and identity management — the single best starting point for security fundamentals.
-
-- **[Mike Chapple — Security+ Study Group](https://www.youtube.com/@MikeChapple)** — *Skill Level:* Beginner | Weekly live study sessions and concept walkthroughs for CompTIA Security+; excellent for accountability and clarifying difficult exam topics with a certified expert.
-
+  
 - **[Simply Cyber — Gerald Auger](https://www.youtube.com/@SimplyCyber)** — *Skill Level:* Beginner–Intermediate | Daily cybersecurity career content, GRC fundamentals, and mindset coaching; uniquely valuable for understanding the *business* of cybersecurity and what hiring managers actually want.
 
 - **[The Cyber Mentor — Practical Ethical Hacking Prerequisites](https://www.youtube.com/watch?v=3FNYvj2U0HM)** — *Skill Level:* Beginner | Heath Adams' free 15-hour course covering networking, Linux, Python, and hacking foundations; the perfect bridge between "complete beginner" and "ready for offensive security."
@@ -119,7 +116,7 @@ The Security Operations Center (SOC) is the heartbeat of enterprise defense. Thi
 
 - **[John Hammond — SOC & Malware Analysis Playlist](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp)** — *Skill Level:* Intermediate | Real-world CTF and malware analysis walkthroughs that simulate actual SOC alert triage; exceptionally good at building the investigative mindset required for Tier 2+ analyst work.
 
-- **[Simply Cyber — SOC Analyst Career Path](https://www.youtube.com/playlist?list=PL4Q-ttyNIRAqog96mt8C8lKWzTjW6f38o)** — *Skill Level:* Beginner | Gerald Auger's curated guidance on breaking into the SOC field, understanding GRC frameworks (NIST, ISO 27001), and positioning yourself for your first security operations role.
+- **[Simply Cyber — SOC Analyst Career Path](https://www.youtube.com/playlist?list=PL4Q-ttyNIRAomhB6uWAob2RWMwCNlQ6UY)** — *Skill Level:* Beginner | Gerald Auger's curated guidance on breaking into the SOC field, understanding GRC frameworks (NIST, ISO 27001), and positioning yourself for your first security operations role.
 
 - **[Cybersecurity Meg](https://www.youtube.com/@CybersecurityMeg)** — *Skill Level:* Beginner | Focuses on the human side of SOC careers — resume building, interview preparation, and day-in-the-life content for aspiring analysts; excellent companion to technical learning.
 
@@ -129,19 +126,19 @@ The Security Operations Center (SOC) is the heartbeat of enterprise defense. Thi
 
 ### 🔭 Traffic Analysis & Network Monitoring
 
-- **[Chris Greer — Wireshark Master Class](https://www.youtube.com/@ChrisGreer)** — *Skill Level:* Beginner–Intermediate | The definitive free Wireshark resource on YouTube; teaches packet capture, protocol dissection, and detecting anomalous traffic patterns that are core to both SOC analysis and network forensics.
+- **[Chris Greer — Wireshark Master Class](https://www.youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)** — *Skill Level:* Beginner–Intermediate | The definitive free Wireshark resource on YouTube; teaches packet capture, protocol dissection, and detecting anomalous traffic patterns that are core to both SOC analysis and network forensics.
 
 - **[TCM Security — Practical Network Analysis](https://www.youtube.com/@TCMSecurityAcademy)** — *Skill Level:* Intermediate | Covers Wireshark, Zeek, and Suricata in attacker-aware defensive contexts; teaches analysts to read traffic not just technically, but strategically — understanding what adversaries are trying to hide.
 
-- **[HackerSploit — Snort IDS/IPS Tutorial](https://www.youtube.com/watch?v=OEEI5W3VZlc)** — *Skill Level:* Intermediate | Hands-on configuration of Snort rules for intrusion detection; directly applicable to SOC homelab setups and real-world network monitoring deployments.
+- **[HackerSploit — Snort IDS/IPS Tutorial](https://www.youtube.com/watch?v=Gh0sweT-G30&t=8s)** — *Skill Level:* Intermediate | Hands-on configuration of Snort rules for intrusion detection; directly applicable to SOC homelab setups and real-world network monitoring deployments.
 
 ---
 
 ### 🧪 Homelab Building
 
-- **[MyDFIR — SOC Homelab Series](https://www.youtube.com/watch?v=5IFnYAPjsQU)** — *Skill Level:* Beginner–Intermediate | A complete guided series for building a functional SOC lab at home using free tools; covers Elastic SIEM deployment, agent installation, and creating your first detection rules — the #1 recommended homelab guide in the community.
+- **[MyDFIR — SOC Homelab Series](https://www.youtube.com/playlist?list=PLG6KGSNK4PuBWmX9NykU0wnWamjxdKhDJ)** — *Skill Level:* Beginner–Intermediate | A complete guided series for building a functional SOC lab at home using free tools; covers Elastic SIEM deployment, agent installation, and creating your first detection rules — the #1 recommended homelab guide in the community.
 
-- **[0xTibo — Defensive Security Homelab](https://www.youtube.com/@0xTibo)** — *Skill Level:* Intermediate | Detailed guides for building Purple Team labs with both attacker simulation and detection logging; ideal for analysts wanting to understand both sides of the incident response equation.
+- **[Defensive Security Homelab](https://www.youtube.com/playlist?list=PL3ljjyal211AbTqlxSo6CGBiVqsXw8wrp)** — *Skill Level:* Intermediate | Detailed guides for building Purple Team labs with both attacker simulation and detection logging; ideal for analysts wanting to understand both sides of the incident response equation.
 
 ---
 
@@ -172,7 +169,7 @@ Offensive security is the art of **authorized adversarial simulation.** This dom
 
 ### 🏹 Active Directory & Advanced Exploitation
 
-- **[The Cyber Mentor — Active Directory Attacks](https://www.youtube.com/watch?v=pKtDpLase04)** — *Skill Level:* Intermediate | Heath Adams' legendary AD attack course covering LLMNR poisoning, Pass-the-Hash, Kerberoasting, DCSync, and lateral movement — compulsory viewing for anyone targeting enterprise penetration testing roles.
+- **[Active Directory Attacks](https://www.youtube.com/playlist?list=PLM1644RoigJvm0L7RcK-64aVTp1vZkDv5)** — *Skill Level:* Intermediate | Heath Adams' legendary AD attack course covering LLMNR poisoning, Pass-the-Hash, Kerberoasting, DCSync, and lateral movement — compulsory viewing for anyone targeting enterprise penetration testing roles.
 
 - **[TCM Security — Movement, Pivoting & Persistence](https://www.youtube.com/watch?v=_8xJaaQlpBo)** — *Skill Level:* Advanced | In-depth coverage of post-exploitation tradecraft: lateral movement techniques, credential dumping, pivoting through network segments, and establishing persistent access — essential for OSCP and red team certifications.
 
