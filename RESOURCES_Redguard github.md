@@ -222,7 +222,7 @@ DFIR sits at the intersection of detective work and deep technical expertise. Th
 
 ### 🦠 Malware Analysis & Reverse Engineering
 
-- **[John Hammond — Malware Analysis Playlist](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVoU6Q2u7BBGPsnkn-rajlp)** — *Skill Level:* Intermediate | Hands-on malware triage, static and dynamic analysis, sandbox usage, and YARA rule writing delivered in John's trademark clear and engaging style; excellent for analysts wanting to level up from alert triage to actual malware investigation.
+- **[John Hammond — Malware Analysis Playlist](https://www.youtube.com/watch?v=fV-pTu5T59M&list=PL1H1sBF1VAKWMn_3QPddayIypbbITTGZv)** — *Skill Level:* Intermediate | Hands-on malware triage, static and dynamic analysis, sandbox usage, and YARA rule writing delivered in John's trademark clear and engaging style; excellent for analysts wanting to level up from alert triage to actual malware investigation.
 
 - **[OALabs](https://www.youtube.com/@OALabs)** — *Skill Level:* Intermediate–Advanced | Professional-grade malware analysis and reverse engineering content covering unpacking, deobfuscation, C2 infrastructure analysis, and IDA Pro/Ghidra techniques; trusted by industry malware analysts worldwide.
 
